@@ -1,6 +1,6 @@
 # 7-Day Dinner Meal Plan (26th June–2nd July 2025, up to Wednesday)
 
--[ ] **Thursday, 26th June**: Chicken Tenders with Honey Mustard Sauce  
+- [ ] **Thursday, 26th June**: Chicken Tenders with Honey Mustard Sauce  
 Crispy baked chicken tenders served with roasted sweet potato wedges and steamed green beans. A sweet-tangy favorite for kids.  
 **Prep Time:** 25 minutes
 
